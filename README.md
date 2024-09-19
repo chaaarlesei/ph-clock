@@ -1,2 +1,0 @@
-# ph-clock
-troll clock
